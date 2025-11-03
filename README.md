@@ -1,4 +1,4 @@
-[Report](https://docs.google.com/document/d/1BUx7MwcEW_Iouxq2wjDSGWGz4dY0vWI7zXV_-_edJhU/edit?usp=drive_link)
+[Report link](https://docs.google.com/document/d/1BUx7MwcEW_Iouxq2wjDSGWGz4dY0vWI7zXV_-_edJhU/edit?usp=drive_link)
 ---
 🔐 Secure Password Generator (Java CLI)
 
