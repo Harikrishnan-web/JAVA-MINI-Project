@@ -2,6 +2,8 @@ import java.security.SecureRandom;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
+
 public class PasswordGenerator {
     private static final SecureRandom secureRandom = new SecureRandom();
 
